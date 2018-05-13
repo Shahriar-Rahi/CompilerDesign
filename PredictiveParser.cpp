@@ -1,11 +1,11 @@
 /*
-Grammer:
+Grammar:
  E -> +EE
  E -> -EE
  E -> 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 
 */
 //Left recursion has not been handled
-//Right recursion has beed handled
+//Right recursion has been handled
 
 #include<iostream>
 #include<stdlib.h>
